@@ -1,0 +1,21 @@
+body{
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	color:  #777777;
+}
+.titulo{
+	background-color: #333333;
+	border: 5px solid #555555;
+	padding-left: 5px ;
+}
+h2{
+	color: #ff0000;
+}
+span{
+	color: black;
+	font-weight: bold;
+}
+.topico{
+	background-color:#999999;
+	border: 1px;
+}

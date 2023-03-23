@@ -1,0 +1,37 @@
+.foto{
+	width: 8rem;
+	display: block;
+}
+h1{
+	display: flex;
+	margin-top: -4rem;
+	margin-left: 10rem;
+	margin-bottom: 2.5rem;
+}
+.subtitulo{
+	color: #fc3468;
+}
+.txt_esquerda{
+
+	width: 9rem;
+	text-align: right;
+}
+.dados_direita{
+	margin-top: -17rem;
+	margin-left: 10rem;
+	text-align: left;
+}
+.formacao_direita{
+	
+	margin-top: -4.2rem;
+	margin-left: 10rem;
+}
+.curso_direita{
+	margin-left: 10rem;
+	margin-top: -10.6rem;
+}
+.xp_direita{
+	margin-left: 10rem;
+	margin-top: -10.5rem;
+}
+

@@ -1,0 +1,68 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+.conteiner{
+	max-width: 100rem;
+	margin: auto;
+	background-color: #202221;
+	position: relative;
+	
+}
+.topo{
+	background-color: #3AC8D2;
+	text-align: center;
+	min-height: 8rem;
+	padding-top: 1px;
+}
+h1{
+	color: white;
+	font-size: 40px;
+
+}
+.imagem_formulario{
+	width: 100rem;
+}
+h2{
+	font-size: 30px;
+}
+.formulario{
+	background-color: rgba(255, 255, 255, 0.6);
+	max-width: 25rem;
+	padding: 1rem;
+	box-sizing: border-box;
+	position: absolute;
+	right: 1rem;
+	top: 9rem;
+}
+input{
+	width: 20rem;
+	height: 2rem;
+	margin: 5px;
+	font-size: 15px;
+}
+.botao{
+	width: 20.5rem;
+	background-color: #3AC8D2;
+	border: none;
+}
+select{
+	width: 20.5rem;
+	height: 2rem;
+	margin: 5px;
+	font-size: 15px;
+}
+.foto_palestrante{
+	width: 50%;
+	
+	text-align: right;
+}
+.info_palestrante{
+	color: white;
+	width: 50%;
+	
+	position: absolute;
+	right: -3px;
+	top: 80rem;
+}

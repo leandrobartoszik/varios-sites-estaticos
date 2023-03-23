@@ -1,0 +1,141 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #070003;
+}
+.navbar{
+	background-color: #070003;
+	text-align: right;
+	padding: 30px;
+	margin-right: 5rem;
+}
+a{
+	text-decoration: none;
+	color: #FF0059;
+	font-size: 25px;
+	padding-right: 20px;
+}
+.titulo{
+	
+	width: 15%;
+	color: #FF0059;
+	float: left;
+	text-align: right;
+	font-size: 25px;
+	
+	margin-top: -5px;
+}
+h1{
+	color: white;
+	font-size: 50px;
+}
+p{
+	color: white;
+	font-size: 20px;
+}
+.imagens{
+	text-align: right;
+	width: 40%;
+	
+}
+.foto{
+	width: 70%;
+}
+span{
+	color: #FF0059;
+}
+.sobre{
+	position: absolute;
+	width: 50%;
+	right: 5rem;
+	top: 10rem;
+}
+button{
+	width: 10rem;
+	height: 2rem;
+	background-color: #070003;
+	border: 1px solid #FF0059;
+	color: white;
+	border-radius: 2rem;
+	margin-right: 1rem;
+	font-size: 15px;
+}
+button:hover{
+	background-color: #FF0059;
+}
+h3{
+	color: white;
+}
+.contato_direita{
+	position: absolute;
+	right: 40rem;
+	top: 13.5rem;
+	line-height: 1.3rem;
+}
+/* web3 */
+.my_service{
+	max-width: 40%;
+	margin: auto;
+	text-align: center;
+}
+.sobre_service{
+	margin: auto;
+	width: 85%;
+	
+}
+.card{
+	width: 30%;
+	text-align: center;
+	padding: 3rem;
+	box-sizing: border-box;
+	border: 2px solid #FFF;
+	float: left;
+	margin: 1rem;
+}
+
+.icone{
+	background-color: #FF0059;
+	width: 50px;
+	margin: auto;	
+	height: 50px;
+	border-radius: 100%;
+}
+@media screen and (max-width: 1146px){
+	.card{
+		width: 45%;
+	}
+}
+@media screen and (max-width: 769px){
+	.card{
+		width: 95%;
+	}	
+}
+/* protifolio */
+button{
+	background-color: #070003;
+	border: 1px solid #FF0059;
+	color: white;
+	border-radius: 2rem;
+	margin-right: 1rem;
+	font-size: 15px;
+}
+button:hover{
+	background-color: #FF0059;
+}
+.card_imagem{
+	width: 30%;
+	float: left;
+	margin: 1rem;	
+	background-color: white;
+	margin: 1rem;
+}
+@media screen and (max-width: 1146px){
+	.card_imagem{
+		width: 45%;
+	}
+}
+@media screen and (max-width: 769px){
+	.card_imagem{
+		width: 95%;
+	}
+}
